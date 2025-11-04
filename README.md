@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy **Johnny Eduardo Lagos Martínez**  
+# 👋 ¡Hola! Soy **Johnny Eduardo Lagos Martínez**
 
 > _“Aficionado del AC Milan, FORZA MILAN!”_ ❤️🖤⚽  
 > 📍 **Chinandega, Nicaragua**
@@ -22,6 +22,7 @@ Me gusta trabajar con **Java**, **TSQL** y explorar proyectos que desafíen mi l
 ## 🛠️ Tecnologías y herramientas
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![TSQL](https://img.shields.io/badge/TSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -33,17 +34,19 @@ Me gusta trabajar con **Java**, **TSQL** y explorar proyectos que desafíen mi l
 
 | 💻 Proyecto | 🧠 Descripción | ⚙️ Lenguaje |
 |--------------|----------------|-------------|
-| [**Style_Fusion_App**](https://github.com/JohnnyJoestar324/Style_Fusion_App) | Proyecto web para Administracion de proyectos. | Java |
-| [**Proyecto_Produccion**](https://github.com/JohnnyJoestar324/Proyecto_Produccion) | Proyecto para Produccion 3. | C# |
-| [**ControlInventario_DW_Integracion**](https://github.com/JohnnyJoestar324/ContolInventario_DW_Integration) | Proyecto de DataWarhouse. | TSQL |
+| [**Style_Fusion_App**](https://github.com/JohnnyJoestar324/Style_Fusion_App) | Aplicación web para la administración de proyectos con interfaz moderna. | Java |
+| [**Proyecto_Produccion**](https://github.com/JohnnyJoestar324/Proyecto_Produccion) | Proyecto desarrollado en C# para Producción 3. | C# |
+| [**ControlInventario_DW_Integracion**](https://github.com/JohnnyJoestar324/ContolInventario_DW_Integration) | Proyecto de Data Warehouse para control de inventarios. | TSQL |
 | [**IExamenjeLagosm**](https://github.com/JohnnyJoestar324/IExamenjeLagosm) | Proyecto de examen en Java. | Java |
+| [**Proyectos**](https://github.com/JohnnyJoestar324/Proyectos) | Ejercicios y prácticas en Java. | Java |
+| [**tareaaw-jelagosm**](https://github.com/JohnnyJoestar324/tareaaw-jelagosm) | Proyecto con consultas en TSQL. | TSQL |
 
 ---
 
 ## 📊 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JohnnyJoestar324&show_icons=true&theme=radical)  
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyJoestar324&layout=compact&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JohnnyJoestar324&show_icons=true&theme=tokyonight&count_private=true)  
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyJoestar324&layout=compact&theme=tokyonight)
 
 ---
 
@@ -54,4 +57,3 @@ Me gusta trabajar con **Java**, **TSQL** y explorar proyectos que desafíen mi l
 ---
 
 ⭐️ *Gracias por visitar mi perfil. Si te interesa colaborar o compartir ideas, ¡escríbeme!* 😊
-
