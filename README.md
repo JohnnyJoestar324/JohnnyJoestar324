@@ -34,9 +34,9 @@ Me gusta trabajar con **Java**, **TSQL** y explorar proyectos que desafíen mi l
 | 💻 Proyecto | 🧠 Descripción | ⚙️ Lenguaje |
 |--------------|----------------|-------------|
 | [**Style_Fusion_App**](https://github.com/JohnnyJoestar324/Style_Fusion_App) | Proyecto web para Administracion de proyectos. | Java |
+| [**Proyecto_Produccion**](https://github.com/JohnnyJoestar324/Proyecto_Produccion) | Proyecto para Produccion 3. | C# |
+| [**ControlInventario_DW_Integracion**](https://github.com/JohnnyJoestar324/ContolInventario_DW_Integration) | Proyecto de DataWarhouse. | TSQL |
 | [**IExamenjeLagosm**](https://github.com/JohnnyJoestar324/IExamenjeLagosm) | Proyecto de examen en Java. | Java |
-| [**tareaaw-jelagosm**](https://github.com/JohnnyJoestar324/tareaaw-jelagosm) | Proyecto con consultas en TSQL. | TSQL |
-| [**sistematicoaw-jelagosm**](https://github.com/JohnnyJoestar324/sistematicoaw-jelagosm) | Proyecto sistemático con SQL. | TSQL |
 
 ---
 
