@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy **Johnny Eduardo Lagos Martínez**  
 
-> _“Tifoso del Milan in depressione”_ ❤️🖤⚽  
+> _“Aficionado del AC Milan, FORZA MILAN!”_ ❤️🖤⚽  
 > 📍 **Chinandega, Nicaragua**
 
 ---
@@ -33,7 +33,7 @@ Me gusta trabajar con **Java**, **TSQL** y explorar proyectos que desafíen mi l
 
 | 💻 Proyecto | 🧠 Descripción | ⚙️ Lenguaje |
 |--------------|----------------|-------------|
-| [**Proyectos**](https://github.com/JohnnyJoestar324/Proyectos) | Repositorio con varios ejercicios y prácticas. | Java |
+| [**Style_Fusion_App**](https://github.com/JohnnyJoestar324/Style_Fusion_App) | Proyecto web para Administracion de proyectos. | Java |
 | [**IExamenjeLagosm**](https://github.com/JohnnyJoestar324/IExamenjeLagosm) | Proyecto de examen en Java. | Java |
 | [**tareaaw-jelagosm**](https://github.com/JohnnyJoestar324/tareaaw-jelagosm) | Proyecto con consultas en TSQL. | TSQL |
 | [**sistematicoaw-jelagosm**](https://github.com/JohnnyJoestar324/sistematicoaw-jelagosm) | Proyecto sistemático con SQL. | TSQL |
